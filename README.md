@@ -33,7 +33,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/BarrsX/PS5-Availability">
-    <img src="https://gamespot1.cbsistatic.com/uploads/screen_kubrick/1179/11799911/3682516-ps5_digitaledition_render_withnotice_01.jpg" alt="Logo" width="100" height="80">
+    <img src="https://gamespot1.cbsistatic.com/uploads/screen_kubrick/1179/11799911/3682516-ps5_digitaledition_render_withnotice_01.jpg" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">PS5 Availability Checker</h3>
