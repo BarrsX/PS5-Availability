@@ -2,7 +2,6 @@ import requests
 from bs4 import BeautifulSoup
 from plyer import notification
 import pandas as pd
-from lxml.html import fromstring
 
 data = {'Amazon': ['No'],
         'Best Buy': ['No'],
