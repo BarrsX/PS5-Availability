@@ -74,7 +74,7 @@
 ## About The Project
 
 This project is code to check various retailers to see id they have a PS5 in stock. Currently the suppoerted store are Amazon, Bestbuy, and Walmart.
-**If there is an error connecting to the website, change the proxies**
+**If there is an error connecting to the website, run again it will use a different proxy**
 
 
 ### Built With
